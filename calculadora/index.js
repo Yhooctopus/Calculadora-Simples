@@ -12,10 +12,10 @@
     }
 
     else if (document.getElementById("box3").checked) {
-        total = num1 * num2;
+        total = num1 / num2;
     }
     else if(document.getElementById("box4").checked) {
-        total = num1 / num2;
+        total = num1 * num2;
     }
     else  if(document.getElementById("box5").checked) {
         total = num1 ** num2;
