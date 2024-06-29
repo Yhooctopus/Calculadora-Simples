@@ -1,5 +1,5 @@
 body {
-    background:#ED8E89
+    background:#221f1F
 }
 .wrapper{
     width: 400px;
@@ -7,10 +7,10 @@ body {
     top: 50%;
     left:50%;
     transform: translate(-50%,-50% );
-    background: #f7b685;
+    background: #B91D24;
     border-radius: 6%;
     padding: 30px;
-    color: #ffff;
+    color: #221f1F;
     text-align:center;
 }
 
@@ -29,9 +29,9 @@ input[type="text"] {
 }
 
 button{
-    background: #F3EBA5;
+    background: #E50914;
     border:none;
-    color:#94C691;
+    color: #221f1F;
     display: inline-block;
     padding: 10px 25px;
     font-size: 18px;
