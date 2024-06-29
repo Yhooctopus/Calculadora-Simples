@@ -1,0 +1,50 @@
+body {
+    background:#ED8E89
+}
+.wrapper{
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50% );
+    background: #f7b685;
+    border-radius: 6%;
+    padding: 30px;
+    color: #ffff;
+    text-align:center;
+}
+
+.wrapper h2{
+    text-transform: uppercase;
+    font-family: 'Courier New';
+    margin-bottom: 10%;
+
+}
+input[type="text"]{
+    height:40px;
+}
+
+input[type="text"] {
+    font-size:24px;
+}
+
+button{
+    background: #F3EBA5;
+    border:none;
+    color:#94C691;
+    display: inline-block;
+    padding: 10px 25px;
+    font-size: 18px;
+    font-family: 'Courier New';
+    font-family: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+input[type="radio"]{
+    width:20px;
+    height:50px;
+}
+ b{
+    font-size:30px;
+ }
